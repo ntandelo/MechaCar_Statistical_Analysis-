@@ -28,15 +28,19 @@ The design specifications for the MechaCar suspension coils dictate that the var
 ## Deliverable 3
 
 #### Comparisson of the PSI of all manufacturing lots against the population average of 1500 PSI: 
+*In this t-test, we compare Lots 1, 2, and 3 against the mean of 1500 PSI. Since the p-value is more than 0.5, we can say that the average of the Lot 1-3 data set is similar to the mean of 1500 PSI. Keep null hypothesis*
 ![image](https://user-images.githubusercontent.com/98437495/167233230-72b40dab-09d7-4a4b-a7f0-f12be9ee84fa.png)
 
 
 #### Comparisson of Lot 1 PSI against population average: 
+*Lot 1's average is exactly 1500 PSI; it has a p-value of 1. This matches our industry average of 1500 PSI perfectly*
 ![image](https://user-images.githubusercontent.com/98437495/167233254-dba6dfdb-6e2d-4ca7-b109-8590ef6001e0.png)
 
 #### Comparisson of Lot 2 PSI against population average: 
+*Lot 2 has an average of 1500.2 PSI and a p-value of 0.61, which is greater than 0.05. This is a strong match between this Lot and the industry averagy of 1500 PSI. Keep null hypothesis*
 ![image](https://user-images.githubusercontent.com/98437495/167233269-ade6d6fa-193f-42ee-93d2-968ba43b0fca.png)
 
 #### Comparisson of Lot 3 PSI against population average: 
+*Lot 3 has a p-value of 0.04, which is lower than 0.05. This means that Lot 3 is not similar to the average of 1500 PSI, so we should reject the null hypothesis. The means are statistically different*
 ![image](https://user-images.githubusercontent.com/98437495/167233283-1f2f5498-7a15-4a6f-a467-d6c2258008e3.png)
 
