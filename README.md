@@ -48,3 +48,10 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 ![image](https://user-images.githubusercontent.com/98437495/167233283-1f2f5498-7a15-4a6f-a467-d6c2258008e3.png)
 
+## Study Design: MechaCar vs Competition (Deliverable 4)
+* What metric or metrics are you going to test?
+*Some metrics that may be valuable to understand about Mecha Cars are: cost of the car and fuel efficiency of the car.* 
+* What is the null hypothesis or alternative hypothesis?
+*The hypothesis of this study is that Mecha Cars are more cost effective and more fuel efficient than the competition. The null hypothesese is that they are less fuel efficient or more expensive, or that they are comparable to competition* 
+* What statistical test would you use to test the hypothesis? And why? *A two-sample T-Test would be used to compare the means of data sets from Mecha Cars and the competition.*
+* What data is needed to run the statistical test?
