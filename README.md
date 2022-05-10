@@ -55,3 +55,4 @@ The design specifications for the MechaCar suspension coils dictate that the var
 *The hypothesis of this study is that Mecha Cars are more cost effective and more fuel efficient than the competition. The null hypothesese is that they are less fuel efficient or more expensive, or that they are comparable to competition* 
 * What statistical test would you use to test the hypothesis? And why? *A two-sample T-Test would be used to compare the means of data sets from Mecha Cars and the competition.*
 * What data is needed to run the statistical test?
+*The required data sets would be: cost of the models of competition cars and Mecha Cars, as well as fuel efficiency metrics (ie, average gallons of gasoline consumed over a range of miles)*
